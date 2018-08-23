@@ -18,11 +18,11 @@ After installing Node.js, simply download the index.js file to a drive on your c
 node index.js
 ```
 
-### Built With
+## Built With
 
-## JavaScript ES5: 
+### JavaScript ES5: 
 I am well-versed in JavaScript and feel it is a very easy language to understand. I chose ES5 because I feel that ES6 is still a bit new and wanted to use ES5 for readability and easy modification by other users. It is also compatible with all browsers.
-## Node.js
+### Node.js
 Node.js is a great tool for CLI tools as it keeps a running instance of the program until you explicitly exit. This is also excellent for testing purposes. 
 
 ### Author
